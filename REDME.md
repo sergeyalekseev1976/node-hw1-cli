@@ -1,9 +1,8 @@
 [list](https://take.ms/Ta8B8)
 
-https://take.ms/Ta8B8
-        get
-https://take.ms/yRYVv
-        add
-https://take.ms/cghAY
-        remove
-https://take.ms/mMYp5
+[get](https://take.ms/yRYVv)
+
+[add](https://take.ms/cghAY)
+            
+[remove](https://take.ms/mMYp5)
+
